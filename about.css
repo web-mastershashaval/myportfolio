@@ -184,7 +184,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("../img/bg1.png") no-repeat right bottom;
+    background: url("bg1.png") no-repeat right bottom;
     background-size: contain;
 }
 
@@ -208,12 +208,12 @@ html {
 }
 
 .button.download {
-    background: url("../img/btn4.png") no-repeat 50% 50%;
+    background: url("btn4.png") no-repeat 50% 50%;
     background-size: 100% 100%;
 }
 
 .button.hire {
-    background: url("../img/btn3.png") no-repeat 50% 50%;
+    background: url("btn3.png") no-repeat 50% 50%;
     background-size: 100% 110%;
 }
 
